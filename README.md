@@ -1,7 +1,7 @@
 # Yinlin Chen-@yinlinchen
 
 Digital Library Architect & Assistant Professor
-<img src="https://www.yinlinchen.com/assets/images/vtul.png"/>
+<img src="https://www.yinlinchen.com/assets/images/vtul.png"/ width=150>
 
 #### Get in touch
 - Email: ylchen@vt.edu
