@@ -1,7 +1,7 @@
 # Yinlin Chen-@yinlinchen
 
-Digital Library Architect & Assistant Professor <br/>
-<img src="https://www.yinlinchen.com/assets/images/vtul.png" width="150">
+<h3>Digital Library Architect & Assistant Professor</h3>
+    <img src="https://www.yinlinchen.com/assets/images/vtul.png" width="200">
 
      
 #### Get in touch
