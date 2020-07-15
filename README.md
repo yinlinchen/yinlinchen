@@ -7,4 +7,4 @@
 #### Get in touch
 - :email: ylchen@vt.edu
 - :bookmark: https://www.yinlinchen.com/
-- <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">https://www.linkedin.com/in/yinlin-chen/
+- <a href="https://www.linkedin.com/in/yinlin-chen/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
