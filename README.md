@@ -5,6 +5,6 @@
 
      
 #### Get in touch
-- :email:: ylchen@vt.edu
-- Personal site: https://www.yinlinchen.com/
-- LinkedIn: https://www.linkedin.com/in/yinlin-chen/
+- :email: ylchen@vt.edu
+- :bookmark: https://www.yinlinchen.com/
+- <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">: https://www.linkedin.com/in/yinlin-chen/
