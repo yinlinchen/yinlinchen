@@ -1,9 +1,11 @@
-## Yinlin Chen-@yinlinchen
+## Yinlin Chen, Ph.D.
 
-<h3>Digital Library Architect & Assistant Professor</h3>
+<h3>Assistant Director, Center for Digital Research & Scholarship <br/>
+    Assistant Professor
+
+</h3>
     <img src="https://www.yinlinchen.com/assets/images/vtul.png" width="200">
 
-     
 #### Get in touch
 - :email: ylchen@vt.edu
 - :bookmark: https://www.yinlinchen.com/
