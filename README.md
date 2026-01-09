@@ -1,6 +1,6 @@
 ## Yinlin Chen, Ph.D.
 
-<h3>Assistant Director, Center for Digital Research & Scholarship <br/>
+<h3>Associate Director, Center for Digital Research & Scholarship <br/>
     Associate Professor, University Libraries, Virginia Tech
 
 </h3>
